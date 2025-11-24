@@ -1,0 +1,33 @@
+INFO 2025-11-24 16:19:02,341 autoreload 26840 20028 Watching for file changes with StatReloader
+INFO 2025-11-24 16:19:06,032 basehttp 26840 39332 "GET /admin/users/user/1/change/ HTTP/1.1" 200 60222
+INFO 2025-11-24 16:19:06,193 basehttp 26840 39332 "GET /static/vendor/adminlte/css/adminlte.min.css HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:06,195 basehttp 26840 1120 "GET /static/vendor/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:06,196 basehttp 26840 32444 "GET /static/jazzmin/css/main.css HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:06,262 basehttp 26840 39332 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:06,364 basehttp 26840 32444 "GET /static/vendor/select2/css/select2.min.css HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:06,410 basehttp 26840 39332 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:06,557 basehttp 26840 32444 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:06,629 basehttp 26840 39332 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:06,744 basehttp 26840 32444 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:06,932 basehttp 26840 32444 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:07,077 basehttp 26840 32444 "GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:07,126 basehttp 26840 32444 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:07,127 basehttp 26840 39332 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:07,216 basehttp 26840 39332 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:07,218 basehttp 26840 32444 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:07,222 basehttp 26840 1120 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-11-24 16:19:07,351 basehttp 26840 39332 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:07,361 basehttp 26840 1120 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:07,405 basehttp 26840 32444 "GET /static/vendor/adminlte/img/AdminLTELogo.png HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:07,423 basehttp 26840 39332 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:07,545 basehttp 26840 1120 "GET /static/jazzmin/js/main.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:07,555 basehttp 26840 32444 "GET /static/vendor/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:07,569 basehttp 26840 39332 "GET /static/vendor/adminlte/js/adminlte.min.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:07,678 basehttp 26840 1120 "GET /static/vendor/select2/js/select2.min.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:07,689 basehttp 26840 32444 "GET /static/jazzmin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:07,710 basehttp 26840 39332 "GET /static/jazzmin/js/ui-builder.js HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:07,757 basehttp 26840 39332 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:09,302 basehttp 26840 39332 "GET /static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:09,316 basehttp 26840 39332 "GET /static/vendor/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 304 0
+INFO 2025-11-24 16:19:19,511 basehttp 26840 15348 "GET / HTTP/1.1" 200 12068
+INFO 2025-11-24 16:22:23,797 autoreload 15968 27388 Watching for file changes with StatReloader
