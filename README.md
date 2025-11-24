@@ -191,7 +191,7 @@ ALLOWED_HOSTS=localhost,127.0.0.1
 - [ ] Set up SSL certificate
 - [ ] Configure domain in ALLOWED_HOSTS
 
-### Docker Support (Coming Soon)
+### Docker Support
 ```yaml
 # docker-compose.yml example
 version: '3.8'
@@ -266,6 +266,6 @@ This project is licensed under the GNU Affero General Public License v3.0 - see 
 
 ---
 
-**Built with ❤️ by Chrispin Odiwuor**
+**Built  by Chrispin Odiwuor**
 
 *Transforming real estate experiences through technology* 🏠✨
